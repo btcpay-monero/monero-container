@@ -1,0 +1,8 @@
+{
+  "version": "0.18.5.0",
+  "checksums": {
+    "linux/amd64": "166ad93036f95f5abeba24c8670061be022c9238dba2e6a7587611a1d759e294",
+    "linux/arm64": "d8f19b947ce46d468615bb7331962d4ca732e79b1ac6c5128fa509df3f6cc487",
+    "linux/arm/v7": "dedaf94b765c428040f1b64e580e389206141fa2be72fd1394be0a8614f04f40"
+  }
+}
